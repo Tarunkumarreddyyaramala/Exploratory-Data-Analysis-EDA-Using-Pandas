@@ -77,7 +77,10 @@ cd Exploratory-Data-Analysis-EDA-Using-Pandas
 jupyter notebook
 ```
 
-### Run the notebook Exploratory Data Analysis (EDA) Using Pandas.ipynb 
+### Run the notebook 
+```bash
+Exploratory Data Analysis (EDA) Using Pandas.ipynb 
+```
 
 ## 📬 Contact
 
@@ -89,7 +92,7 @@ jupyter notebook
 ## 📄 License
 This repository is open source and available under the MIT License.
 
-## Happy Coding!
+## 🎉 Happy Coding!
 😄 Thanks! Happy coding to you too! 💻✨
 
 If you need help with anything—code, docs, deployment—I'm here. 🚀
